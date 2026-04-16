@@ -1,0 +1,15 @@
+python
+
+1. write a program which will print if number to divisible by 3 and 5 also divisible by both 3 and 5?
+2. write a program which will take a num as input from user foctors?
+3. write a program which will take a number as input from user digit count?
+4. write a program from given string to find out the substring in java?
+5. function ko declear karne ke liye def keyword use karte hai.
+6. write a program which will take a number if a number is even and odd number factorial.
+
+
+properties of list
+1. mutable
+2. dynamic in size
+3. mixed data type
+
